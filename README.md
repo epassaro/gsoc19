@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
+## Ezequiel A. Pássaro
 
-You can use the [editor on GitHub](https://github.com/epassaro/gsoc19/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+**Project:** ["Expansion of the TARDIS Atomic Database"](https://summerofcode.withgoogle.com/projects/#5625658653278208)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Organization:** The Python Software Foundation
 
-### Markdown
+**Sub-organization:** TARDIS
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<br>
 
-```markdown
-Syntax highlighted code block
+## List of merged pull requests:
 
-# Header 1
-## Header 2
-### Header 3
+- #### TARDIS recipe for the `conda-forge` repository: [#7934](https://github.com/conda-forge/staged-recipes/pull/7934), [#930](https://github.com/tardis-sn/tardis/pull/930)
 
-- Bulleted
-- List
+- #### Port Carsus to Python 3 and set up Travis CI: [#118](https://github.com/tardis-sn/carsus/pull/118), [#120](https://github.com/tardis-sn/carsus/pull/120), [#123](https://github.com/tardis-sn/carsus/pull/118), [#131](https://github.com/tardis-sn/carsus/pull/131), [#132](https://github.com/tardis-sn/carsus/pull/132), [#137](https://github.com/tardis-sn/carsus/pull/137)
+    
+- #### New parsers for CMFGEN data source with HDF5 output. Unit testing and integration with Travis CI: [#124](https://github.com/tardis-sn/carsus/pull/124), [#142](https://github.com/tardis-sn/carsus/pull/142), [#1](https://github.com/tardis-sn/carsus-refdata/pull/1)
+        
+* #### Pipeline for converting CMFGEN database to HDF5: [#143](https://github.com/tardis-sn/carsus/pull/143)
+    
+* #### Up-to-date Carsus documentation: [#125](https://github.com/tardis-sn/carsus/pull/125), [#135](https://github.com/tardis-sn/carsus/pull/135)
+        
+* #### New Knox Long's zeta parser with HDF5 output: [#145](https://github.com/tardis-sn/carsus/pull/145)
+    
+* #### GitHub template for issues: [#133](https://github.com/tardis-sn/carsus/pull/133)
+    
+<br>
 
-1. Numbered
-2. List
+## List of open pull requests:
 
-**Bold** and _Italic_ and `Code` text
+* #### New NIST parser with HDF5 output: [#144](https://github.com/tardis-sn/carsus/pull/144) 
 
-[Link](url) and ![Image](src)
-```
+* #### HDF5 output for existing GFALL parser: [#147](https://github.com/tardis-sn/carsus/pull/147)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<br>
 
-### Jekyll Themes
+A complete list of PRs made during the entire GSoC 2019 period can be found [here](https://github.com/pulls?q=is%3Apr+created%3A%3E2019-02-01+created%3A%3C2010-09-01+author%3Aepassaro+user%3Atardis-sn+user%3Aconda-forge).
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/epassaro/gsoc19/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<br>
 
-### Support or Contact
+## Other links
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- Carsus documentation: [https://carsus.readthedocs.io](https://carsus.readthedocs.io)
+
+- Python GSoC 2019 blog: [https://blogs.python-gsoc.org/en/epassaros-blog/](https://blogs.python-gsoc.org/en/epassaros-blog/)
