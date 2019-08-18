@@ -19,7 +19,9 @@
 * #### Pipeline for converting CMFGEN database to HDF5: [#143](https://github.com/tardis-sn/carsus/pull/143)
     
 * #### Up-to-date Carsus documentation: [#125](https://github.com/tardis-sn/carsus/pull/125), [#135](https://github.com/tardis-sn/carsus/pull/135)
-        
+
+* #### New NIST parser with HDF5 output: [#144](https://github.com/tardis-sn/carsus/pull/144)
+
 * #### New Knox Long's zeta parser with HDF5 output: [#145](https://github.com/tardis-sn/carsus/pull/145)
     
 * #### GitHub template for issues: [#133](https://github.com/tardis-sn/carsus/pull/133)
@@ -28,9 +30,9 @@
 
 ## List of open pull requests:
 
-* #### New NIST parser with HDF5 output: [#144](https://github.com/tardis-sn/carsus/pull/144) 
-
 * #### HDF5 output for existing GFALL parser: [#147](https://github.com/tardis-sn/carsus/pull/147)
+
+* #### Module for creating TARDIS atomic files: [#148](https://github.com/tardis-sn/carsus/pull/148)
 
 <br>
 
