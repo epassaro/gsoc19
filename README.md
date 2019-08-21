@@ -25,7 +25,9 @@
 * #### New Knox Long's zeta parser with HDF5 output: [#145](https://github.com/tardis-sn/carsus/pull/145)
     
 * #### GitHub template for issues: [#133](https://github.com/tardis-sn/carsus/pull/133)
-    
+
+* #### Other fixes: [#149](https://github.com/tardis-sn/carsus/pull/149)
+
 <br>
 
 ## List of open pull requests:
