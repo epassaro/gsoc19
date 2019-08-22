@@ -30,15 +30,11 @@
 
 <br>
 
-## List of open pull requests:
+## List of open pull requests*:
 
 * #### HDF5 output for existing GFALL parser: [#147](https://github.com/tardis-sn/carsus/pull/147)
 
 * #### Module for creating TARDIS atomic files: [#148](https://github.com/tardis-sn/carsus/pull/148)
-
-<br>
-
-A complete list of PRs made during the entire GSoC 2019 period can be found [here](https://github.com/pulls?q=is%3Apr+created%3A%3E2019-02-01+created%3A%3C2010-09-01+author%3Aepassaro+user%3Atardis-sn+user%3Aconda-forge).
 
 <br>
 
@@ -47,3 +43,7 @@ A complete list of PRs made during the entire GSoC 2019 period can be found [her
 - Carsus documentation: [https://carsus.readthedocs.io](https://carsus.readthedocs.io)
 
 - Python GSoC 2019 blog: [https://blogs.python-gsoc.org/en/epassaros-blog/](https://blogs.python-gsoc.org/en/epassaros-blog/)
+
+<br>
+
+\* Pull requests still open at 26/8/2019. A complete list of PRs made during the entire GSoC 2019 period can be found [here](https://github.com/pulls?q=is%3Apr+created%3A%3E2019-02-01+created%3A%3C2010-09-01+author%3Aepassaro+user%3Atardis-sn+user%3Aconda-forge).
