@@ -34,9 +34,13 @@
 
 * #### HDF5 output for existing GFALL parser: [#147](https://github.com/tardis-sn/carsus/pull/147)
 
-* #### Module for creating TARDIS atomic files: [#148](https://github.com/tardis-sn/carsus/pull/148)
+* #### New module for creating TARDIS atomic files: [#148](https://github.com/tardis-sn/carsus/pull/148)
 
 <br>
+
+## Future objectives:
+
+* #### Add Chianti levels and lines to the TARDIS atomic files
 
 ## Other links
 
