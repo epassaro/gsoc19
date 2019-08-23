@@ -8,7 +8,7 @@
 
 <br>
 
-## List of merged pull requests:
+## List of merged pull requests
 
 - #### TARDIS recipe for the `conda-forge` repository: [#7934](https://github.com/conda-forge/staged-recipes/pull/7934), [#930](https://github.com/tardis-sn/tardis/pull/930)
 
@@ -30,7 +30,7 @@
 
 <br>
 
-## List of open pull requests*:
+## List of open pull requests*
 
 * #### HDF5 output for existing GFALL parser: [#147](https://github.com/tardis-sn/carsus/pull/147)
 
@@ -38,11 +38,13 @@
 
 <br>
 
-## Future objectives:
+## Future objectives
 
 * #### Add Chianti levels and lines to the TARDIS atomic files
 
-## Other links
+<br>
+
+## Other links:
 
 - Carsus documentation: [https://carsus.readthedocs.io](https://carsus.readthedocs.io)
 
