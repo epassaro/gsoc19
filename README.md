@@ -16,10 +16,6 @@ During the last three months I've been working alongside the TARDIS team. It was
 
 The work I did on these two packages during this summer can be summarized in the following way:
 
-<br>
-
-## 1. List of merged pull requests
-
 - **Making TARDIS available for the Anaconda distribution.** Ease of installation is always desired, and the _Anaconda_ distribution is a convenient way of distributing scientific software. My first task was to package TARDIS following the `conda-forge` guidelines. This was specially useful because allowed me to know more about the TARDIS dependencies.
 
     _Pull requests: [#7934](https://github.com/conda-forge/staged-recipes/pull/7934) [#930](https://github.com/tardis-sn/tardis/pull/930)_
@@ -39,6 +35,10 @@ The work I did on these two packages during this summer can be summarized in the
 - **New parsers for NIST and Knox's Long zeta.** At this point the idea was to allow _Carsus_ to create TARDIS atomic files without storing data in a SQL database. These new parsers can read and dump data straight to HDF5.  
 
     _Pull requests: [#144](https://github.com/tardis-sn/carsus/pull/144) [#145](https://github.com/tardis-sn/carsus/pull/145)_
+    
+- **New module for creating TARDIS atomic files (no SQL)*.** This module retrieves atomic data with the new parsers and creates TARDIS atomic files using only _Pandas_. Files made with this module are consistent with the ones created from an SQL database.
+
+    _Pull requests: [#148](https://github.com/tardis-sn/carsus/pull/148)_
 
 - **Up-to-date Carsus documentation.**
 
@@ -50,15 +50,7 @@ The work I did on these two packages during this summer can be summarized in the
 
 <br>
 
-## 2. List of open pull requests*
-
-- **New module for creating TARDIS atomic files (no SQL).** This module retrieves atomic data with the new parsers and creates TARDIS atomic files using only _Pandas_. Files made with this module are consistent with the ones created from an SQL database.
-
-    _Pull requests: [#148](https://github.com/tardis-sn/carsus/pull/148)_
-
-<br>
-
-## 3. What's left to do?
+## What's left to do?
 
 In order to have atomic files identical to the ones obtained with the _Carsus_ SQL database, we need to add the Chianti source.
 
@@ -74,4 +66,4 @@ In order to have atomic files identical to the ones obtained with the _Carsus_ S
 
 ---
 
-\* Pull requests still open at 26/8/2019. A complete list of PRs made during the entire GSoC 2019 period can be found [here](https://github.com/pulls?q=is%3Apr+created%3A%3E2019-02-01+created%3A%3C2010-09-03+author%3Aepassaro+user%3Atardis-sn+user%3Aconda-forge).
+\* Pull request still open at 26/8/2019. A complete list of PRs made during the entire GSoC 2019 period can be found [here](https://github.com/pulls?q=is%3Apr+created%3A%3E2019-02-01+created%3A%3C2010-09-03+author%3Aepassaro+user%3Atardis-sn+user%3Aconda-forge).
