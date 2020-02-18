@@ -1,10 +1,8 @@
 # Ezequiel A. Pássaro
 
-**Project:** ["Expansion of the TARDIS Atomic Database"](https://summerofcode.withgoogle.com/projects/#5625658653278208)
-
-**Organization:** The Python Software Foundation
-
-**Sub-organization:** TARDIS
+**Project:** ["Expansion of the TARDIS Atomic Database"](https://summerofcode.withgoogle.com/archive/2019/projects/5344591031566336/) <br>
+**Organization:** The Python Software Foundation <br>
+**Sub-organization:** TARDIS <br>
 
 ---
 
