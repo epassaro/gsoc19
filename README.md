@@ -70,4 +70,4 @@ In order to have atomic files identical to the ones obtained with the _Carsus_ S
 
 ---
 
-\* Pull requests still open at 26/8/2019. A complete list of PRs made during the entire GSoC 2019 period can be found [here](https://github.com/pulls?q=is%3Apr+created%3A%3E2019-02-01+created%3A%3C2010-09-03+author%3Aepassaro+user%3Atardis-sn+user%3Aconda-forge).
+\* Pull requests still open at 26/8/2019. A complete list of PRs made during the entire GSoC 2019 period can be found [here](https://github.com/pulls?q=is%3Apr+created%3A2019-02-01..2019-09-03+author%3Aepassaro+user%3Atardis-sn+user%3Aconda-forge).
